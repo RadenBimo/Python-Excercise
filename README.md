@@ -1,5 +1,5 @@
 # Python-Excercise
-In this repo contains python coding excercise and challange, that i work on
+In this repo contains python coding excercise and challange, that work on
 * Every Folder has READ ME explain purpose of code or what i'am tried to solve
   
 Currently, the tools that I'm familiar with are:
