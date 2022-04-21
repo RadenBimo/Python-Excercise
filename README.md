@@ -1,6 +1,6 @@
 # Python-Excercise
-In this repo contains python coding excercise and challange that i'am work on
-* Every Folder has READ ME explain purpose of code or what i'am tried to solve
+In this repo contains python coding excercise and challange that i'm work on
+* Every Folder has READ ME explain purpose of code or what i was tried to solve
   
 Currently, the tools that I'm familiar with are:
 1. Python
